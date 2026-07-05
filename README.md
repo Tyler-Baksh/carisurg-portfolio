@@ -53,7 +53,6 @@ pip install -r requirements.txt
 
 ## 🚀 Usage
 
-### Week 0
 Once dependencies are installed, launch Jupyter Notebook to explore the Week 0 notebooks:
 
 ```bash
