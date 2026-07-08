@@ -3,9 +3,6 @@
 **CariSurg MedTech Pathways | Week 5**
 **Yale EMMLC Triage Extract → Baseline Triage Model**
 
-Prepared for: CariSurg ED Board (Mercer deployment review)
-Prepared by: *[author name]* · *[date]*
-
 ---
 
 ## 1. Verdict
