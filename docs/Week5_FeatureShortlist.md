@@ -1,7 +1,7 @@
 # Top-10 Feature Shortlist
 
 **CariSurg MedTech Pathways | Week 5**
-**Baseline Triage Model — Candidate Feature Ranking**
+**Baseline Triage Model - Candidate Feature Ranking**
 
 ---
 
