@@ -24,7 +24,7 @@ The dataset's triage-acuity label and core vital signs are complete and clinical
 
 **Figure 1. Distribution of Triage_Level (ESI) across ED arrivals**
 
-![Distribution of Triage_Level (ESI) across ED arrivals](figs/triage_level_distribution.png)
+<img width="640" height="440" alt="Triage_Distribution" src="https://github.com/user-attachments/assets/bb0ef945-dd0f-494c-bc4c-1c8e9cff99f0" />
 
 *Read as: most encounters are mid-acuity; the two ends of the scale (the most and least urgent patients) are both rare. Source: Week 5 data-exploration notebook, Section 11.*
 
@@ -50,7 +50,7 @@ The dataset's triage-acuity label and core vital signs are complete and clinical
 
 **Figure 2. Vital signs by Triage_Level**
 
-![Vital signs by Triage_Level](figs/vitals_by_triage_level.png)
+<img width="1589" height="690" alt="VitalSignsbyTriageLevel" src="https://github.com/user-attachments/assets/2d941096-2321-4033-b1c6-f61d1dc0c864" />
 
 *Read as: box plots show the typical range of each vital at every acuity level. Where the boxes shift consistently from Level 1 through Level 5, that vital is tracking acuity in the expected clinical direction. Source: Week 5 data-exploration notebook, Section 12.*
 
