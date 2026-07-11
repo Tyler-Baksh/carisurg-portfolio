@@ -35,12 +35,12 @@ cd carisurg-portfolio
 
 ```bash
 # On Linux/Mac
-python -m venv venv
-source venv/bin/activate
+python -m venv .venv
+source .venv/bin/activate
 
 # On Windows
-python -m venv venv
-venv\Scripts\activate
+python -m venv .venv
+.venv/Scripts/activate
 ```
 
 4. Install all required dependencies:
