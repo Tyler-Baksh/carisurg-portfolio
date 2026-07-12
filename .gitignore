@@ -1,3 +1,4 @@
 .venv/
 yaleemmlc_admissionprediction_triage.csv
+triage_cleaned_v1.csv
 figs/
